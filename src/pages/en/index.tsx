@@ -10,7 +10,7 @@ import TwitterCardMeta from "../../components/meta-en/TwitterCardMeta";
 import ShemaMeta from "../../components/meta-en/ShemaMeta";
 
 const Home = () => {
-    const title = 'الرئيسية';
+    const title = 'Home';
     const url = "/en";
     return (
         <>
