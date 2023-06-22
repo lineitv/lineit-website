@@ -93,8 +93,8 @@ const Web = () => {
     whileInView="visible" className="flex lg:flex-row flex-col justify-around items-center lg:mt-20 md:mt-24 sm:mt-28 mt-14 min-w-7xl md:h-[90vh]">
       {/* image area */}
       <motion.div variants={item} className="md:ml-10 mx-0 md:mx-10 lg:ml-20 md:mr-10 lg:mr-0 order-first">
-      <CldImage src="https://res.cloudinary.com/dzxbbqq4l/image/upload/v1687299784/markting_mgqbwt.webp" width={2000} height={2000} alt="أفضل شركة ديجيتال ماركينج في مصر والوطن العربي - لاين اي تي" objectFit="cover" />
-        <CldOgImage src="https://res.cloudinary.com/dzxbbqq4l/image/upload/v1687299784/markting_mgqbwt.webp" width={2000} height={2000} alt="أفضل شركة ديجيتال ماركينج في مصر والوطن العربي - لاين اي تي" objectFit="cover" />
+      <CldImage src="https://res.cloudinary.com/dzxbbqq4l/image/upload/v1687299784/markting_gdxnxu.webp" width={2000} height={2000} alt="أفضل شركة ديجيتال ماركينج في مصر والوطن العربي - لاين اي تي" objectFit="cover" />
+        <CldOgImage src="https://res.cloudinary.com/dzxbbqq4l/image/upload/v1687299784/markting_gdxnxu.webp" width={2000} height={2000} alt="أفضل شركة ديجيتال ماركينج في مصر والوطن العربي - لاين اي تي" objectFit="cover" />
       </motion.div>
       {/* textual area */}
       <div className="flex flex-col items-center justify-start md:ml-20 md:w-[-webkit-fill-available] mx-10 mt-10 md:mt-0">
