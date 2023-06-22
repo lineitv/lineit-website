@@ -5,7 +5,8 @@ import TwitterCardMeta from "../../../components/meta/TwitterCardMeta";
 import TagPostList from "../../../components/pages/TagPostList";
 import config from "../../../lib/config";
 import { countPosts, listPostContent, PostContent } from "../../../lib/posts";
-import { getTag, listTags, TagContent } from "../../../lib/tags";
+import {TagContent } from "../../../type/type";
+import { getTag, listTags} from "../../../lib/tags";
 import Navbar from "../../../components/pages/Navbar";
 
 type Props = {
