@@ -275,7 +275,7 @@ collections:
             - "tags.*.name"
           valueField: "tags.*.slug"
       - label: "BodyEn"
-        name: "bodyen"
+        name: "body"
         widget: "markdown"
       - label: 'Image'
         name: "image"
