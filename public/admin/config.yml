@@ -141,5 +141,5 @@ collections:
         widget: "markdown"
       - label: "Image"
         name: "image"
-        widget: image
+        widget: "image"
         media_library: /blog
