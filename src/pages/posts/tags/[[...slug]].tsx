@@ -28,7 +28,7 @@ export default function Index({ posts, tag, pagination, page }: Props) {
       <OpenGraphMeta url={url} title={title} />
       <TwitterCardMeta url={url} title={title} />
       <TagPostList posts={posts} tag={tag} pagination={pagination} />
-      <Navbar en={`/en/posts/tags/${tag.name}` + (page ? `/${page}` : "")} />
+      <Navbar en={`/en/posts/tags/${tag.slug}` + (page ? `/${page}` : "")} />
     </>
   );
 }
