@@ -227,7 +227,7 @@ collections:
                 widget: "string"
                 hint: "Tag name for displaying on the site"
 
-  - name: "posts"
+  - name: "postsen"
     label: "PostsEn"
     folder: "content/posts-en/"
     extension: "mdx"
