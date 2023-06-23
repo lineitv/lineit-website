@@ -145,7 +145,7 @@ collections:
         default: "/blog/02.png"
         media_library: /blog
 
-  - name: "config"
+  - name: "configen"
     label: "ConfigEn"
     delete: false
     editor:
@@ -181,7 +181,7 @@ collections:
             name: "github_account"
             widget: "string"
 
-  - name: "meta"
+  - name: "metaen"
     label: "MetaEn"
     delete: false
     editor:
@@ -208,7 +208,7 @@ collections:
               - label: "Introduction"
                 name: "introduction"
                 widget: "text"
-      - name: "tags"
+      - name: "tagsen"
         label: "TagsEn"
         file: "meta-en/tags.yml"
         description: "List of tags"
