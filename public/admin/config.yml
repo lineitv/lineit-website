@@ -142,4 +142,4 @@ collections:
       - label: "Image"
         name: "image"
         widget: "image"
-        media_library: /blog
+        media_folder: /blog
