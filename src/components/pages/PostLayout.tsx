@@ -71,7 +71,7 @@ export default function PostLayout({
               </div>
             </div>
           </header>
-          <div className={styles.content}>{children}</div>
+          <div dir="rtl" className={styles.content}>{children}</div>
           <ul className={"tag-list"}>
             {tags.map((it, i) => (
               <li key={i}>
