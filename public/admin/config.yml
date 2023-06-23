@@ -139,8 +139,3 @@ collections:
       - label: "Body"
         name: "body"
         widget: "markdown"
-      - label: 'Image'
-        name: "image"
-        widget: image
-        default: "/blog/02.png"
-        media_library: /blog
