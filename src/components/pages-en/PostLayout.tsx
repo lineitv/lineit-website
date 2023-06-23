@@ -58,7 +58,7 @@ export default function PostLayout({
         author={authorName}
         description={description}
       />
-      <div className={"container lg:mt-16 mt-[4.2rem]"}>
+      <div className={"container text-left lg:mt-16 mt-[4.2rem]"}>
         <article>
           <header>
             <h1>{title}</h1>
