@@ -99,7 +99,7 @@ const Web = () => {
             description={description}
       />
 
-            <Navbar ar="/services/web-development-company" />
+            <Navbar ar="/company" />
 
         <motion.div variants={container}
     initial="hidden"
