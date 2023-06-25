@@ -27,7 +27,7 @@ const OurWorks = [
     name: "elias suits website",
     image: 'https://res.cloudinary.com/dzxbbqq4l/image/upload/v1687299784/work-elias_yechta.webp',
     link: "/en/portfolio/elias-fashion",
-    website: "https://elias-designer.com/en",
+    website: "https://elias-designer.com",
   },
   {
     name: "Ibrahim Fashion website",
