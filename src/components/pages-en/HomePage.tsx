@@ -53,12 +53,12 @@ function HomePage() {
           We offer you digital solutions that help your business grow
         </p>
         <div className="mt-10 flex w-full mb-6 md:mb-0 items-center justify-center md:justify-start md:items-start gap-5">
-          <Link href="/portfolio" >
+          <Link href="/en/portfolio" >
             <a className="text-white bg-[#E84E36] font-semibold rounded-full px-5 md:py-4 py-2 hover:bg-black hover:shadow-lg">
               Our Work Gallery
             </a>
           </Link>
-          <Link href="/portfolio" >
+          <Link href="/en/company" >
             <a className="text-white bg-[#E84E36] font-semibold rounded-full px-5 md:py-4 py-2 hover:bg-black hover:shadow-lg">
               Company
             </a>
