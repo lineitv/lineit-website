@@ -1,5 +1,5 @@
 import Navbar from "../components/pages/Navbar";
-import ahmedWorks from "../components/pages/ahmedWorks";
+import AhmedWorks from "../components/pages/AhmedWorks";
 import BasicMeta from "../components/meta/BasicMeta";
 import OpenGraphMeta from "../components/meta/OpenGraphMeta";
 import TwitterCardMeta from "../components/meta/TwitterCardMeta";
@@ -36,7 +36,7 @@ const Home = () => {
       />
             <Navbar en="/en/portfolio"/>
         <div className="lg:mt-14 md:mt-24 sm:mt-28 mt-14"></div>
-        <ahmedWorks />
+        <AhmedWorks />
 
         </>
     )
