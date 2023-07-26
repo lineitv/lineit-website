@@ -1,9 +1,9 @@
-import Navbar from "../../components/pages/Navbar";
-import ahmedWorks from "../../components/pages/ahmedWorks";
-import BasicMeta from "../../components/meta/BasicMeta";
-import OpenGraphMeta from "../../components/meta/OpenGraphMeta";
-import TwitterCardMeta from "../../components/meta/TwitterCardMeta";
-import ShemaMeta from "../../components/meta/ShemaMeta";
+import Navbar from "../components/pages/Navbar";
+import ahmedWorks from "../components/pages/ahmedWorks";
+import BasicMeta from "../components/meta/BasicMeta";
+import OpenGraphMeta from "../components/meta/OpenGraphMeta";
+import TwitterCardMeta from "../components/meta/TwitterCardMeta";
+import ShemaMeta from "../components/meta/ShemaMeta";
 const Home = () => {
     const title = 'معرض الأعمال';
     const url = '/ahmedwaleed-work';
