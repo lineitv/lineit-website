@@ -47,24 +47,24 @@ function HomePage() {
       {/* image area */}
       <motion.div 
         variants={item}
-        className="md:mr-10 lg:ml-30 md:ml-20  order-first">
-        <CldOgImage src="https://res.cloudinary.com/dzxbbqq4l/image/upload/v1687041011/banner_ar.webp" width={2000} height={2000} alt="بانر شركة لاين أي تي: أفضل شركة تصميم مواقع وتطبيقات في مصر" objectFit="cover" />
-        <CldImage src="https://res.cloudinary.com/dzxbbqq4l/image/upload/v1687041011/banner_ar.webp" width={2000} height={2000} alt="بانر شركة لاين أي تي: أفضل شركة تصميم مواقع وتطبيقات في مصر" objectFit="cover" />
+        className="order-first md:mr-10 lg:ml-30 md:ml-20">
+        <CldOgImage src="https://res.cloudinary.com/dzxbbqq4l/image/upload/v1753343062/b1_zfdcb9.png" width={2000} height={2000} alt="بانر شركة لاين أي تي: أفضل شركة تصميم مواقع وتطبيقات في مصر" objectFit="cover" />
+        <CldImage src="https://res.cloudinary.com/dzxbbqq4l/image/upload/v1753343062/b1_zfdcb9.png" width={2000} height={2000} alt="بانر شركة لاين أي تي: أفضل شركة تصميم مواقع وتطبيقات في مصر" objectFit="cover" />
       </motion.div>
       {/* textual area */}
       <div className="flex flex-col items-start justify-start md:mr-36 md:w-[-webkit-fill-available] mx-10 mt-10 md:mt-0">
         <p className="text-[#E84E36] text-right w-full font-semibold text-base">شركة رائدة في تصميم المواقع والتطبيقات</p>
-        <h2 className="font-bold lg:text-5xl text-right w-full text-2xl text-gray-800 mt-5">
+        <h2 className="w-full mt-5 text-2xl font-bold text-right text-gray-800 lg:text-5xl">
         شركة لاين أي تي
         </h2>
-        <h2 className="font-bold text-right  w-full lg:text-6xl text-2xl text-gray-800 mt-5">
+        <h2 className="w-full mt-5 text-2xl font-bold text-right text-gray-800 lg:text-6xl">
           للبرمجيات
         </h2>
         <p className="md:text-xl text-xl text-right w-full font-semibold text-[rgba(38,39,41,.7)] mt-5 lg:block block">
           {" "}
           نقدم لك أفضل الحلول الرقمية التي تساعد عملك على النمو
         </p>
-        <div className="mt-10 flex w-full mb-6 md:mb-0 items-center justify-center md:justify-end md:items-end gap-5">
+        <div className="flex items-center justify-center w-full gap-5 mt-10 mb-6 md:mb-0 md:justify-end md:items-end">
           <Link href="/portfolio" >
             <a className="text-white bg-[#E84E36] font-semibold rounded-full px-5 md:py-4 py-2 hover:bg-black hover:shadow-lg">
               أخر الأعمال
